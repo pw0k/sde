@@ -32,3 +32,37 @@ OLTP **системы** характеризуются большим колич
 - **Point-in-Time Recovery (Восстановление до точки во времени)**: Позволяет восстановить базу данных до конкретного момента времени, используя архивные журналы WAL.
 
 ### [Уровни изоляции транзакций в PostgreSQL](transaction)
+
+#### Курсы PostgreSQL DBA от компании Postgres Professional
+[https://www.youtube.com/watch?v=yevXLP2LA4Q](https://www.youtube.com/watch?v=yevXLP2LA4Q) - запись курса DBA1 для PostgreSQL версии 13
+#### Курс молодого бойца от команды PostgreSQL DBA в Ozon
+
+[https://www.youtube.com/playlist?list=PLCV5pSK-WYy85UmYUusizyZw0MUkYIWdH](https://www.youtube.com/playlist?list=PLCV5pSK-WYy85UmYUusizyZw0MUkYIWdH)
+#### Про типичные ошибки и как делать не надо, про практики
+
+[Типовые ошибки в приложениях, которые ведут к bloat в postgresq](http://backendconf.ru/2018/abstracts/3391)
+
+[PostgreSQL. Плохие запросы, примеры и их поиск](https://www.highload.ru/spb/2020/abstracts/6683)
+
+[Типичные ошибки при разработке приложений, работающих с PostgreSQL](https://www.highload.ru/spb/2019/abstracts/4833)
+
+[Как устроить хайлоад на ровном месте](https://www.highload.ru/moscow/2018/abstracts/4181)
+
+[Postgres Highload Checklist](https://www.highload.ru/spb/2019/abstracts/4433)
+
+#### Про оптимизации запросов
+
+[PostgreSQL Query Optimization Step by step techniques](https://www.postgresql.eu/events/nordicpgday2018/sessions/session/1858/slides/68/query-optimization-techniques_talk.pdf)
+
+[Учим слона танцевать рок-н-ролл](https://pgday.ru/presentation/232/5964945ea4142.pdf)
+
+[Неклассические приемы оптимизации запросов](https://pgday.ru/files/pgmaster14/max.boguk.query.optimization.pdf)
+
+#### Про VACUUM
+
+[https://www.interdb.jp/pg/pgsql06.html](https://www.interdb.jp/pg/pgsql06.html) — как работает VACUUM
+
+[https://habr.com/ru/post/501516/](https://habr.com/ru/post/501516/) — еще про VACUUM
+#### Книги
+
+PostgreSQL 15 изнутри - [https://postgrespro.ru/education/books/internals](https://postgrespro.ru/education/books/internals)
